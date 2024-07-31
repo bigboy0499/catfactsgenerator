@@ -1,4 +1,4 @@
-const CAT_API_KEY = 'YOUR_CAT_API_KEY'; // Replace with your actual Cat API key
+const CAT_API_KEY = 'live_PTyCMDJYLNtqhJAHEYhABzCm4LfxkDMRAEBvcpmNBoCI4sjVayROnnKv41C15mrr'; // Replace with your actual Cat API key
 
 document.getElementById('fetch-button').addEventListener('click', fetchCatData);
 

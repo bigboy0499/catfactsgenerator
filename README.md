@@ -3,15 +3,18 @@ Cat Facts Generator
 2. Frontend: HTML
 3. Backend: JavaScript
 
+
 User Story:
 
 • As a persom, everything about cats always makes me happy.
 There are also other people that need their mood to boost.
 This web app can also help them lift their mood.
 
+
 Steps:
 1. Open the index.html on your web browser. There is no need to put it in your htdocs forlder.
 2. then just click the "GIVE ME SOME CATS" button to generate gif, image, and fact about different race or types of cats.
+
 
 **Obtaining the API key
 
